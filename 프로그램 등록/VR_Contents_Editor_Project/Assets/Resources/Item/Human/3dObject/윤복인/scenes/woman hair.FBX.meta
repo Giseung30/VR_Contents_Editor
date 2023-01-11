@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: e2fcd68e68d395343a21bd651765603c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: angry eye
+    100004: angry lip
+    100006: base
+    100008: Bip001
+    100010: Bip001 Footsteps
+    100012: Bip001 Head
+    100014: Bip001 HeadNub
+    100016: Bip001 L Calf
+    100018: Bip001 L Clavicle
+    100020: Bip001 L Finger0
+    100022: Bip001 L Finger01
+    100024: Bip001 L Finger02
+    100026: Bip001 L Finger03
+    100028: Bip001 L Finger0Nub
+    100030: Bip001 L Finger1
+    100032: Bip001 L Finger11
+    100034: Bip001 L Finger12
+    100036: Bip001 L Finger13
+    100038: Bip001 L Finger1Nub
+    100040: Bip001 L Finger2
+    100042: Bip001 L Finger21
+    100044: Bip001 L Finger22
+    100046: Bip001 L Finger23
+    100048: Bip001 L Finger2Nub
+    100050: Bip001 L Finger3
+    100052: Bip001 L Finger31
+    100054: Bip001 L Finger32
+    100056: Bip001 L Finger33
+    100058: Bip001 L Finger3Nub
+    100060: Bip001 L Finger4
+    100062: Bip001 L Finger41
+    100064: Bip001 L Finger42
+    100066: Bip001 L Finger43
+    100068: Bip001 L Finger4Nub
+    100070: Bip001 L Foot
+    100072: Bip001 L Forearm
+    100074: Bip001 L ForeTwist
+    100076: Bip001 L ForeTwist2
+    100078: Bip001 L ForeTwist3
+    100080: Bip001 L ForeTwist4
+    100082: Bip001 L ForeTwist5
+    100084: Bip001 L ForeTwist6
+    100086: Bip001 L ForeTwist7
+    100088: Bip001 L ForeTwist8
+    100090: Bip001 L ForeTwist9
+    100092: Bip001 L Hand
+    100094: Bip001 L Thigh
+    100096: Bip001 L Toe0
+    100098: Bip001 L Toe0Nub
+    100100: Bip001 L UpperArm
+    100102: Bip001 LCalfTwist
+    100104: Bip001 LCalfTwist1
+    100106: Bip001 LCalfTwist2
+    100108: Bip001 LCalfTwist3
+    100110: Bip001 LCalfTwist4
+    100112: Bip001 LCalfTwist5
+    100114: Bip001 LCalfTwist6
+    100116: Bip001 LCalfTwist7
+    100118: Bip001 LCalfTwist8
+    100120: Bip001 LCalfTwist9
+    100122: Bip001 Neck
+    100124: Bip001 Neck1
+    100126: Bip001 Neck2
+    100128: Bip001 Pelvis
+    100130: Bip001 Ponytail1
+    100132: Bip001 Ponytail1Nub
+    100134: Bip001 R Calf
+    100136: Bip001 R Clavicle
+    100138: Bip001 R Finger0
+    100140: Bip001 R Finger01
+    100142: Bip001 R Finger02
+    100144: Bip001 R Finger03
+    100146: Bip001 R Finger0Nub
+    100148: Bip001 R Finger1
+    100150: Bip001 R Finger11
+    100152: Bip001 R Finger12
+    100154: Bip001 R Finger13
+    100156: Bip001 R Finger1Nub
+    100158: Bip001 R Finger2
+    100160: Bip001 R Finger21
+    100162: Bip001 R Finger22
+    100164: Bip001 R Finger23
+    100166: Bip001 R Finger2Nub
+    100168: Bip001 R Finger3
+    100170: Bip001 R Finger31
+    100172: Bip001 R Finger32
+    100174: Bip001 R Finger33
+    100176: Bip001 R Finger3Nub
+    100178: Bip001 R Finger4
+    100180: Bip001 R Finger41
+    100182: Bip001 R Finger42
+    100184: Bip001 R Finger43
+    100186: Bip001 R Finger4Nub
+    100188: Bip001 R Foot
+    100190: Bip001 R Forearm
+    100192: Bip001 R ForeTwist
+    100194: Bip001 R ForeTwist1
+    100196: Bip001 R ForeTwist2
+    100198: Bip001 R ForeTwist3
+    100200: Bip001 R ForeTwist4
+    100202: Bip001 R ForeTwist5
+    100204: Bip001 R ForeTwist6
+    100206: Bip001 R ForeTwist7
+    100208: Bip001 R ForeTwist8
+    100210: Bip001 R ForeTwist9
+    100212: Bip001 R Hand
+    100214: Bip001 R Thigh
+    100216: Bip001 R Toe0
+    100218: Bip001 R Toe0Nub
+    100220: Bip001 R UpperArm
+    100222: Bip001 RCalfTwist
+    100224: Bip001 RCalfTwist1
+    100226: Bip001 RCalfTwist2
+    100228: Bip001 RCalfTwist3
+    100230: Bip001 RCalfTwist4
+    100232: Bip001 RCalfTwist5
+    100234: Bip001 RCalfTwist6
+    100236: Bip001 RCalfTwist7
+    100238: Bip001 RCalfTwist8
+    100240: Bip001 RCalfTwist9
+    100242: Bip001 Spine
+    100244: Bip001 Spine1
+    100246: Bip001 Spine2
+    100248: Bip001 Spine3
+    100250: blink
+    100252: Bone002
+    100254: Bone004
+    100256: Bone006
+    100258: Bone007
+    100260: Bone008
+    100262: Bone009
+    100264: Bone010
+    100266: Box001
+    100268: Box004
+    100270: Box006
+    100272: Box007
+    100274: Box008
+    100276: Box009
+    100278: Box010
+    100280: Box011
+    100282: Box012
+    100284: Box013
+    100286: Box014
+    100288: Box015
+    100290: Box016
+    100292: Circle003
+    100294: classic hair
+    100296: Dummy003
+    100298: flipped hair
+    100300: Group001
+    100302: hair
+    100304: jaw fat
+    100306: jaw003
+    100308: jaw004
+    100310: jaw005
+    100312: jaw007
+    100314: jaw008
+    100316: jaw009
+    100318: jaw010
+    100320: jaw011
+    100322: jaw012
+    100324: jaw017
+    100326: jaw018
+    100328: jaw019
+    100330: jaw020
+    100332: jaw021
+    100334: jaw026
+    100336: jaw027
+    100338: left hip
+    100340: Line003
+    100342: Line004
+    100344: Line005
+    100346: Line007
+    100348: Line008
+    100350: Line009
+    100352: Line010
+    100354: Line011
+    100356: Line012
+    100358: Line017
+    100360: Line018
+    100362: Line019
+    100364: Line020
+    100366: Line021
+    100368: Line025
+    100370: Line028
+    100372: Line029
+    100374: Line031
+    100376: neck twist
+    100378: neck twist 2
+    100380: new hair
+    100382: Object006
+    100384: Object009
+    100386: Object010
+    100388: Object016
+    100390: Object018
+    100392: Object019
+    100394: Object020
+    100396: Object021
+    100398: Object024
+    100400: Point001
+    100402: Point003
+    100404: Point004
+    100406: Point005
+    100408: Point006
+    100410: Point007
+    100412: Point008
+    100414: remote eye
+    100416: remote lip
+    100418: right hip
+    100420: short hair
+    100422: slipper
+    100424: smile eye
+    100426: smile001
+    100428: smile002
+    100430: sorrow eye
+    100432: sorrow lip
+    100434: surprise eye
+    100436: teeth low
+    100438: Text001
+    100440: Text002
+    100442: Text003
+    100444: Text004
+    100446: Text005
+    100448: Text006
+    100450: Text007
+    100452: training set
+    100454: training trousers
+    100456: //RootNode
+    100458: woo
+    400000: ' 1'
+    400002: angry eye
+    400004: angry lip
+    400006: base
+    400008: Bip001
+    400010: Bip001 Footsteps
+    400012: Bip001 Head
+    400014: Bip001 HeadNub
+    400016: Bip001 L Calf
+    400018: Bip001 L Clavicle
+    400020: Bip001 L Finger0
+    400022: Bip001 L Finger01
+    400024: Bip001 L Finger02
+    400026: Bip001 L Finger03
+    400028: Bip001 L Finger0Nub
+    400030: Bip001 L Finger1
+    400032: Bip001 L Finger11
+    400034: Bip001 L Finger12
+    400036: Bip001 L Finger13
+    400038: Bip001 L Finger1Nub
+    400040: Bip001 L Finger2
+    400042: Bip001 L Finger21
+    400044: Bip001 L Finger22
+    400046: Bip001 L Finger23
+    400048: Bip001 L Finger2Nub
+    400050: Bip001 L Finger3
+    400052: Bip001 L Finger31
+    400054: Bip001 L Finger32
+    400056: Bip001 L Finger33
+    400058: Bip001 L Finger3Nub
+    400060: Bip001 L Finger4
+    400062: Bip001 L Finger41
+    400064: Bip001 L Finger42
+    400066: Bip001 L Finger43
+    400068: Bip001 L Finger4Nub
+    400070: Bip001 L Foot
+    400072: Bip001 L Forearm
+    400074: Bip001 L ForeTwist
+    400076: Bip001 L ForeTwist2
+    400078: Bip001 L ForeTwist3
+    400080: Bip001 L ForeTwist4
+    400082: Bip001 L ForeTwist5
+    400084: Bip001 L ForeTwist6
+    400086: Bip001 L ForeTwist7
+    400088: Bip001 L ForeTwist8
+    400090: Bip001 L ForeTwist9
+    400092: Bip001 L Hand
+    400094: Bip001 L Thigh
+    400096: Bip001 L Toe0
+    400098: Bip001 L Toe0Nub
+    400100: Bip001 L UpperArm
+    400102: Bip001 LCalfTwist
+    400104: Bip001 LCalfTwist1
+    400106: Bip001 LCalfTwist2
+    400108: Bip001 LCalfTwist3
+    400110: Bip001 LCalfTwist4
+    400112: Bip001 LCalfTwist5
+    400114: Bip001 LCalfTwist6
+    400116: Bip001 LCalfTwist7
+    400118: Bip001 LCalfTwist8
+    400120: Bip001 LCalfTwist9
+    400122: Bip001 Neck
+    400124: Bip001 Neck1
+    400126: Bip001 Neck2
+    400128: Bip001 Pelvis
+    400130: Bip001 Ponytail1
+    400132: Bip001 Ponytail1Nub
+    400134: Bip001 R Calf
+    400136: Bip001 R Clavicle
+    400138: Bip001 R Finger0
+    400140: Bip001 R Finger01
+    400142: Bip001 R Finger02
+    400144: Bip001 R Finger03
+    400146: Bip001 R Finger0Nub
+    400148: Bip001 R Finger1
+    400150: Bip001 R Finger11
+    400152: Bip001 R Finger12
+    400154: Bip001 R Finger13
+    400156: Bip001 R Finger1Nub
+    400158: Bip001 R Finger2
+    400160: Bip001 R Finger21
+    400162: Bip001 R Finger22
+    400164: Bip001 R Finger23
+    400166: Bip001 R Finger2Nub
+    400168: Bip001 R Finger3
+    400170: Bip001 R Finger31
+    400172: Bip001 R Finger32
+    400174: Bip001 R Finger33
+    400176: Bip001 R Finger3Nub
+    400178: Bip001 R Finger4
+    400180: Bip001 R Finger41
+    400182: Bip001 R Finger42
+    400184: Bip001 R Finger43
+    400186: Bip001 R Finger4Nub
+    400188: Bip001 R Foot
+    400190: Bip001 R Forearm
+    400192: Bip001 R ForeTwist
+    400194: Bip001 R ForeTwist1
+    400196: Bip001 R ForeTwist2
+    400198: Bip001 R ForeTwist3
+    400200: Bip001 R ForeTwist4
+    400202: Bip001 R ForeTwist5
+    400204: Bip001 R ForeTwist6
+    400206: Bip001 R ForeTwist7
+    400208: Bip001 R ForeTwist8
+    400210: Bip001 R ForeTwist9
+    400212: Bip001 R Hand
+    400214: Bip001 R Thigh
+    400216: Bip001 R Toe0
+    400218: Bip001 R Toe0Nub
+    400220: Bip001 R UpperArm
+    400222: Bip001 RCalfTwist
+    400224: Bip001 RCalfTwist1
+    400226: Bip001 RCalfTwist2
+    400228: Bip001 RCalfTwist3
+    400230: Bip001 RCalfTwist4
+    400232: Bip001 RCalfTwist5
+    400234: Bip001 RCalfTwist6
+    400236: Bip001 RCalfTwist7
+    400238: Bip001 RCalfTwist8
+    400240: Bip001 RCalfTwist9
+    400242: Bip001 Spine
+    400244: Bip001 Spine1
+    400246: Bip001 Spine2
+    400248: Bip001 Spine3
+    400250: blink
+    400252: Bone002
+    400254: Bone004
+    400256: Bone006
+    400258: Bone007
+    400260: Bone008
+    400262: Bone009
+    400264: Bone010
+    400266: Box001
+    400268: Box004
+    400270: Box006
+    400272: Box007
+    400274: Box008
+    400276: Box009
+    400278: Box010
+    400280: Box011
+    400282: Box012
+    400284: Box013
+    400286: Box014
+    400288: Box015
+    400290: Box016
+    400292: Circle003
+    400294: classic hair
+    400296: Dummy003
+    400298: flipped hair
+    400300: Group001
+    400302: hair
+    400304: jaw fat
+    400306: jaw003
+    400308: jaw004
+    400310: jaw005
+    400312: jaw007
+    400314: jaw008
+    400316: jaw009
+    400318: jaw010
+    400320: jaw011
+    400322: jaw012
+    400324: jaw017
+    400326: jaw018
+    400328: jaw019
+    400330: jaw020
+    400332: jaw021
+    400334: jaw026
+    400336: jaw027
+    400338: left hip
+    400340: Line003
+    400342: Line004
+    400344: Line005
+    400346: Line007
+    400348: Line008
+    400350: Line009
+    400352: Line010
+    400354: Line011
+    400356: Line012
+    400358: Line017
+    400360: Line018
+    400362: Line019
+    400364: Line020
+    400366: Line021
+    400368: Line025
+    400370: Line028
+    400372: Line029
+    400374: Line031
+    400376: neck twist
+    400378: neck twist 2
+    400380: new hair
+    400382: Object006
+    400384: Object009
+    400386: Object010
+    400388: Object016
+    400390: Object018
+    400392: Object019
+    400394: Object020
+    400396: Object021
+    400398: Object024
+    400400: Point001
+    400402: Point003
+    400404: Point004
+    400406: Point005
+    400408: Point006
+    400410: Point007
+    400412: Point008
+    400414: remote eye
+    400416: remote lip
+    400418: right hip
+    400420: short hair
+    400422: slipper
+    400424: smile eye
+    400426: smile001
+    400428: smile002
+    400430: sorrow eye
+    400432: sorrow lip
+    400434: surprise eye
+    400436: teeth low
+    400438: Text001
+    400440: Text002
+    400442: Text003
+    400444: Text004
+    400446: Text005
+    400448: Text006
+    400450: Text007
+    400452: training set
+    400454: training trousers
+    400456: //RootNode
+    400458: woo
+    2100000: training suit
+    2100002: 'Material #436'
+    2100004: teeth
+    2100006: 'Material #492'
+    2100008: 'Material #27'
+    2100010: short hair
+    2100012: No Name
+    2100014: 'Material #201'
+    2100016: 'Material #462'
+    2100018: 'Material #514'
+    2100020: 'Material #515'
+    2100022: outfit
+    2100024: face
+    2100026: slipper
+    2300000: angry eye
+    2300002: angry lip
+    2300004: blink
+    2300006: flipped hair
+    2300008: hair
+    2300010: jaw003
+    2300012: jaw004
+    2300014: jaw005
+    2300016: jaw007
+    2300018: jaw008
+    2300020: jaw009
+    2300022: jaw010
+    2300024: jaw011
+    2300026: jaw012
+    2300028: jaw017
+    2300030: jaw018
+    2300032: jaw019
+    2300034: jaw020
+    2300036: jaw021
+    2300038: jaw026
+    2300040: jaw027
+    2300042: Line003
+    2300044: Line004
+    2300046: Line005
+    2300048: Line007
+    2300050: Line008
+    2300052: Line009
+    2300054: Line010
+    2300056: Line011
+    2300058: Line012
+    2300060: Line017
+    2300062: Line018
+    2300064: Line019
+    2300066: Line020
+    2300068: Line021
+    2300070: Line028
+    2300072: Line029
+    2300074: Line031
+    2300076: new hair
+    2300078: Object009
+    2300080: Object010
+    2300082: Object016
+    2300084: short hair
+    2300086: smile eye
+    2300088: smile001
+    2300090: smile002
+    2300092: sorrow eye
+    2300094: sorrow lip
+    2300096: surprise eye
+    2300098: teeth low
+    2300100: woo
+    3300000: angry eye
+    3300002: angry lip
+    3300004: blink
+    3300006: flipped hair
+    3300008: hair
+    3300010: jaw003
+    3300012: jaw004
+    3300014: jaw005
+    3300016: jaw007
+    3300018: jaw008
+    3300020: jaw009
+    3300022: jaw010
+    3300024: jaw011
+    3300026: jaw012
+    3300028: jaw017
+    3300030: jaw018
+    3300032: jaw019
+    3300034: jaw020
+    3300036: jaw021
+    3300038: jaw026
+    3300040: jaw027
+    3300042: Line003
+    3300044: Line004
+    3300046: Line005
+    3300048: Line007
+    3300050: Line008
+    3300052: Line009
+    3300054: Line010
+    3300056: Line011
+    3300058: Line012
+    3300060: Line017
+    3300062: Line018
+    3300064: Line019
+    3300066: Line020
+    3300068: Line021
+    3300070: Line028
+    3300072: Line029
+    3300074: Line031
+    3300076: new hair
+    3300078: Object009
+    3300080: Object010
+    3300082: Object016
+    3300084: short hair
+    3300086: smile eye
+    3300088: smile001
+    3300090: smile002
+    3300092: sorrow eye
+    3300094: sorrow lip
+    3300096: surprise eye
+    3300098: teeth low
+    3300100: woo
+    4300000: training set
+    4300002: Object018
+    4300004: teeth low
+    4300006: Object009
+    4300008: Line031
+    4300010: new hair
+    4300012: flipped hair
+    4300014: short hair
+    4300016: hair
+    4300018: Object016
+    4300020: Object019
+    4300022: Object020
+    4300024: Object021
+    4300026: Box001
+    4300028: Object024
+    4300030: Object006
+    4300032: training trousers
+    4300034: slipper
+    4300036: Object010
+    4300038: Line003
+    4300040: Line004
+    4300042: jaw009
+    4300044: Line010
+    4300046: Line009
+    4300048: jaw010
+    4300050: smile eye
+    4300052: jaw004
+    4300054: jaw003
+    4300056: angry lip
+    4300058: base
+    4300060: surprise eye
+    4300062: Line008
+    4300064: jaw007
+    4300066: jaw008
+    4300068: Line007
+    4300070: sorrow eye
+    4300072: blink
+    4300074: Line011
+    4300076: Line012
+    4300078: jaw011
+    4300080: jaw012
+    4300082: smile001
+    4300084: angry eye
+    4300086: Line017
+    4300088: Line018
+    4300090: jaw017
+    4300092: jaw018
+    4300094: smile002
+    4300096: Line020
+    4300098: Line021
+    4300100: jaw020
+    4300102: jaw021
+    4300104: sorrow lip
+    4300106: woo
+    4300108: Line019
+    4300110: Line028
+    4300112: Line029
+    4300114: jaw026
+    4300116: jaw027
+    4300118: Line005
+    4300120: jaw005
+    4300122: jaw019
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: base
+    13700002: Box001
+    13700004: Object006
+    13700006: Object018
+    13700008: Object019
+    13700010: Object020
+    13700012: Object021
+    13700014: Object024
+    13700016: slipper
+    13700018: training set
+    13700020: training trousers
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

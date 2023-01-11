@@ -1,0 +1,46 @@
+CREATE TABLE `g5_qstnivstm` (
+  `qstn_grop_cd` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `qstn_grop_titl` varchar(255) NOT NULL DEFAULT '',
+  `vald_strt_dd` varchar(8) NOT NULL DEFAULT '00000000',
+  `vald_end_dd` varchar(8) NOT NULL DEFAULT '29991231',
+  `rgstr_id` varchar(20) NOT NULL,
+  `rgst_dt` datetime DEFAULT CURRENT_TIMESTAMP,
+  `updtr_id` varchar(20) NOT NULL,
+  `updt_dt` datetime DEFAULT CURRENT_TIMESTAMP,
+  `head` longtext,
+  `rslt` longtext,
+  PRIMARY KEY (`qstn_grop_cd`)
+) ENGINE=MyISAM AUTO_INCREMENT=16 DEFAULT CHARSET=utf8
+;
+
+CREATE TABLE `g5_qstnivstn` (
+  `qstn_no` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `qstn_grop_cd` int(10) unsigned NOT NULL,
+  `qstn_cnts` varchar(3000) NOT NULL DEFAULT '',
+  `hstr_cd` varchar(1) NOT NULL DEFAULT 'O',
+  `answ_dvsn` varchar(1) NOT NULL DEFAULT 'H',
+  `mult_yn` varchar(1) NOT NULL DEFAULT 'N',
+  `ordr_no` int(5) unsigned NOT NULL DEFAULT '0',
+  `rgstr_id` varchar(20) NOT NULL,
+  `rgst_dt` datetime DEFAULT CURRENT_TIMESTAMP,
+  `updtr_id` varchar(20) NOT NULL,
+  `updt_dt` datetime DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`qstn_no`)
+) ENGINE=MyISAM AUTO_INCREMENT=183 DEFAULT CHARSET=utf8 
+;
+
+CREATE TABLE `g5_qstnanswn` (
+  `qstn_no` int(10) unsigned NOT NULL,
+  `answ_no` int(20) unsigned NOT NULL AUTO_INCREMENT,
+  `answ_cnts` varchar(3000) NOT NULL DEFAULT '',
+  `answ_valu` varchar(50) NOT NULL DEFAULT '',
+  `answ_dvsn` varchar(1) NOT NULL DEFAULT 'H',
+  `mult_yn` varchar(1) NOT NULL DEFAULT 'N',
+  `hstr_cd` varchar(1) NOT NULL DEFAULT 'O',
+  `ordr_no` int(5) unsigned NOT NULL,
+  `rgstr_id` varchar(20) NOT NULL,
+  `rgst_dt` datetime DEFAULT CURRENT_TIMESTAMP,
+  `updtr_id` varchar(20) NOT NULL,
+  `updt_dt` datetime DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`qstn_no`,`answ_no`)
+) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8
